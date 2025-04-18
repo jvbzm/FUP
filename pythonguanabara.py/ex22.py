@@ -1,5 +1,0 @@
-nome = str(input('Escreva um nome: '))
-print('O nome em letras minúsculas é {}'.format(nome.lower()))
-print('O nome escrito em letras maiúsculas é {}'.format(nome.upper()))
-print('O nome tem ao todo {} letras ao todo'.format (len(nome) - nome.count(' ') ))
-print('O primeiro nome tem {} letras'.format(nome.find (' ')))
