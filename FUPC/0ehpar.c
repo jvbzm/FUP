@@ -14,4 +14,5 @@ int main(){
         par+=i;
     }
     printf("%d",par);
+    
 }
